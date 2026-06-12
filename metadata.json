@@ -1,0 +1,6 @@
+{
+  "name": "Data Cleaning & Visualization",
+  "description": "An interactive playground to clean raw datasets, handle missing values, duplicates, and outliers, and visualize insights on dynamic dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
